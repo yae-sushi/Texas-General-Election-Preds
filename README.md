@@ -16,7 +16,7 @@ Chloe Burns, Jack Olson, Lucy Tai
 Gif: Our Predicted Election Results in Texas by County
 
 
-![Predicted Election Results in Texas](https://media.giphy.com/media/ZEqGWjgKhRp2s5QgAi/giphy.gif)
+![Predicted Election Results in Texas](https://media.giphy.com/media/A2uosny6VhQhdoxFVQ/giphy.gif)
 
 
 [Data Dictionary](https://1drv.ms/x/s!AmhftIfHAUqyiW-SrChdkB1cuXvl?e=mlsboB)
