@@ -12,6 +12,14 @@ Chloe Burns, Jack Olson, Lucy Tai
 - Predicting Voter Turnout using LASSO Regression
 - Predicting Election Results by Expected Party Turnout
 
+
+Gif: Our Predicted Election Results in Texas by County
+
+
+![Predicted Election Results in Texas](https://media.giphy.com/media/ZEqGWjgKhRp2s5QgAi/giphy.gif)
+
+[Data Dictionary](https://1drv.ms/x/s!AmhftIfHAUqyiW-SrChdkB1cuXvl?e=mlsboB)
+
 ___
 
 ### Problem Statement
@@ -77,6 +85,8 @@ In both 2016 & 2020 our model was better at predicting Republican counties. For 
 - Logistic Regression to Predict County Victories
   - Model was conservative and overpredicted Rep. majority in counties
   - Useful for identifying swing counties
+  
+--- 
 
 
 
