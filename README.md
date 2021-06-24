@@ -18,6 +18,7 @@ Gif: Our Predicted Election Results in Texas by County
 
 ![Predicted Election Results in Texas](https://media.giphy.com/media/ZEqGWjgKhRp2s5QgAi/giphy.gif)
 
+
 [Data Dictionary](https://1drv.ms/x/s!AmhftIfHAUqyiW-SrChdkB1cuXvl?e=mlsboB)
 
 ___
@@ -87,6 +88,17 @@ In both 2016 & 2020 our model was better at predicting Republican counties. For 
   - Useful for identifying swing counties
   
 --- 
+
+# Next Steps
+
+- Adjust for Bias
+- Investigate Known Swing Counties
+- Incorporate more data
+  - Elections before 2012
+  - Interim elections
+  - Religion
+  - More economic data
+
 
 
 
